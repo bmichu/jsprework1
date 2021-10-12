@@ -1,0 +1,39 @@
+/* Global */
+
+body {
+    margin: 10px 0 80px;
+	background: #edf0f3;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+}
+
+button {
+    padding: 20px 40px; 
+    font-size: 22px;
+    border: 2px solid 5px;
+    border-radius: 10px;
+    margin: 40px 5px;
+}
+button:hover {
+    cursor: pointer;
+}
+
+img {
+    max-width: 500px;
+    max-height: 500px;
+}
+
+#messages {
+    font-size: 24px;
+    margin: 15px;
+}
+
+#play-scissors {
+    background-color: #d9da86;
+}
+#play-rock {
+    background-color: #e7964b;
+}
+#play-paper  {
+    background-color: #6cade9;
+}
